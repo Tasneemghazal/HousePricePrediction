@@ -1,7 +1,7 @@
 # AI Assignment: House Price Prediction
 
 ## Introduction
-This repository contains an AI assignment project for predicting house prices using the [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). The assignment explores the implementation of machine learning algorithms, specifically Decision Tree Regressor and XGBoost, for predicting house prices.
+This repository contains a machine learning assignment for AI-course at Palestine Technical University-Kadoorie, aims to predict house prices based on historical sales data. The Assignment utilizes train-test split and employs two machine learning algorithms: Decision Tree Regressor and XGBoost.
 
 ## Dataset
 
